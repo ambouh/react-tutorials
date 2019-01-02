@@ -1,7 +1,7 @@
 ## **REACT TUTORIALS**
 
 ##### CONCEPTS:
-Concepts: [Components, Data Handling, concept3, concept4]
+Concepts: [Components, Data Handling, concept3, concept4, concept5]
 
 ##### TOPICS:
 - *Components*: To build function components, class components. To structure the building block of an App; from simple components to multiple components. Intergrating components' properties and states for data or to effectively update DOM when state changes.
