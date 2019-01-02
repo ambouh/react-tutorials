@@ -1,14 +1,14 @@
 ## **REACT TUTORIALS**
 
 ##### CONCEPTS:
-Concepts: [Components, concept2, concept3, concept4]
+Concepts: [Components, Data Handling, concept3, concept4]
 
 ##### TOPICS:
 - *Components*: To build function components, class components. To structure the building block of an App; from simple components to multiple components. Intergrating components' properties and states for data or to effectively update DOM when state changes.
 
-- *Working with data*: [IN PROG]
+- *Working with data*: To handle data locally between components, using ref. and handle data from an API, using axios `get()` and `then()` to fetch data with promise. Handling hardcoded data and dynamic data models.
 
-- *Building a Game interface*: [...]
+- *Building a Game interface*: [IN PROG]
 - *Numbers Selection*: [...]
 - *Game state*: [...]
 
