@@ -8,9 +8,9 @@ Concepts: [Components, concept2, concept3, concept4]
 
 - *Working with data*: [IN PROG]
 
-- *Building a Game interface*: [IN PROG]
-- *Numbers Selection*: [IN PROG]
-- *Game state*: [IN PROG]
+- *Building a Game interface*: [...]
+- *Numbers Selection*: [...]
+- *Game state*: [...]
 
 I believe in always staying sharp in your stack. Therefore, I'm using the course below to re-gain clarity in React.js after a gap of not using its library. This course also updates me on functions of its most current release 16.6!
 
