@@ -12,7 +12,7 @@ Concepts: [Components, concept2, concept3, concept4]
 - *Numbers Selection*: [IN PROG]
 - *Game state*: [IN PROG]
 
-I believe in always staying sharp in your stack. Therefore, I'm using the course below to re-gain clarity in React.js after a gap of not using its library. This course also updates me on functions of the most current release!
+I believe in always staying sharp in your stack. Therefore, I'm using the course below to re-gain clarity in React.js after a gap of not using its library. This course also updates me on functions of its most current release 16.6!
 
 ### COURSE: 
 #### [Getting Started with React.Js](https://app.pluralsight.com/library/courses/react-js-getting-started/table-of-contents)
